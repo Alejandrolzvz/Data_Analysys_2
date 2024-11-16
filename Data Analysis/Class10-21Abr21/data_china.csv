@@ -1,0 +1,531 @@
+Id,Label,timeset,1,2,3,4,5,6,10,11,12,13,14,15,16,17,Degree,modularity_class,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,clustering,triangles
+35,"Ibarra, Alejandro",,Tec de Monterrey,,6,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+39,"Cantú, Francisco J.",,Tec de Monterrey,,13,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,21,2,11.555,5,0.376959,0.413271,0.004367,0.628571,132
+187,"Bonilla, Jaime",,Tec de Monterrey,,8,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,74,3,38.162,4,0.455924,0.52027,0.00027,0.890781,2406
+406,"Favela, Antonio R.",,Tec de Monterrey,,12,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,55,2,29.014,5,0.436479,0.491753,0.000793,0.624242,927
+407,"Ahuett, Horacio",,Tec de Monterrey,,22,EIC,EIC018 - Automotriz,Líder,1,1,1,1,1,1,1,1,58,2,28.539,4,0.464734,0.516112,0.00149,0.531155,878
+427,"Elías, Alex",,Tec de Monterrey,,70,EIC,EIC008 - Nanotecnología,Líder,1,1,1,1,1,1,1,1,158,3,88.072,4,0.567217,0.649168,0.01593,0.50778,6298
+444,"Morales, Rubén",,Tec de Monterrey,,79,EIC,EIC018 - Automotriz,Adscrito,1,1,1,1,1,1,1,1,96,2,54.275,4,0.50792,0.572419,0.005519,0.50614,2308
+473,"Molina, Arturo",,Tec de Monterrey,,120,EIC,EIC006 - Innovación Prod.,Líder,1,1,1,1,1,1,1,1,95,2,56.074,5,0.492828,0.562439,0.003935,0.547816,2446
+532,"Nolazco, Juan A.",,Tec de Monterrey,,14,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,54,2,30.073,5,0.402174,0.459356,0.000332,0.754018,1079
+617,"Castañón, Gerardo A.",,Tec de Monterrey,,48,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,89,2,50.52,5,0.481964,0.550658,0.004071,0.487998,1911
+631,"Ávila, Alfonso",,Tec de Monterrey,,8,EIC,EIC013 - Sensores y Dispositivos,Colaborador,1,1,1,1,1,1,1,1,7,2,3.97,5,0.353417,0.37526,0.000694,0.52381,11
+667,"Terashima, Hugo",,Tec de Monterrey,,19,EIC,EIC014 - Artificial Intel.,Líder,1,1,1,1,1,1,1,1,62,2,34.78,5,0.419721,0.482398,0.000534,0.726071,1373
+713,"Rodríguez, Ciro A.",,Tec de Monterrey,,67,EIC,EIC007 - Manufactura,Líder,1,1,1,1,1,1,1,1,152,2,80.668,4,0.566549,0.644837,0.016257,0.497909,5714
+722,"Brena, Ramón F.",,Tec de Monterrey,,15,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,40,2,20.788,5,0.401838,0.45,0.002592,0.620513,484
+733,"Ramírez, Ricardo A.",,Tec de Monterrey,,63,EIC,EIC018 - Automotriz,Adscrito,1,1,1,1,1,1,1,1,71,2,36.96,4,0.485368,0.540194,0.003504,0.581489,1445
+737,"Rito, Marco A.",,Tec de Monterrey,,103,EIC,EIC001 - Bioprocesos,Líder,1,1,1,1,1,1,1,1,160,1,89.607,4,0.529736,0.631497,0.002812,0.593711,7552
+747,"López, José L.",,Tec de Monterrey,,6,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,4,3,1.95,5,0.369148,0.395218,0,0.833333,5
+753,"Gordillo, José L.",,Tec de Monterrey,,23,EIC,EIC012 - Robótica,Líder,1,1,1,1,1,1,1,1,91,2,51.223,5,0.463391,0.538011,0.002712,0.564103,2310
+782,"Conant, Santiago E.",,Tec de Monterrey,,8,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,56,2,29.344,5,0.394262,0.453638,0.000167,0.792208,1220
+789,"Lavariega, Juan C.",,Tec de Monterrey,,6,EIC,EIC014 - Artificial Intel.,Colaborador,1,1,1,1,1,1,1,1,6,2,3.31,6,0.354982,0.376161,0.000195,0.6,9
+809,"Soto, Rogelio",,Tec de Monterrey,,31,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,103,2,56.629,4,0.488325,0.564276,0.00784,0.477441,2508
+865,"Rojas, Cecilia",,Tec de Monterrey,,8,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,25,1,12.587,5,0.411815,0.451559,0.000232,0.706667,212
+868,"Cárdenas, Leopoldo E.",,Tec de Monterrey,,85,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,59,2,32.543,5,0.426041,0.486383,0.002653,0.683226,1169
+974,"Gutiérrez, Julio C.",,Tec de Monterrey,,157,EIC,EIC011 - Óptica,Líder,1,1,1,1,1,1,1,1,46,2,26.411,5,0.442502,0.490367,0.000307,0.685024,709
+1028,"León, Noel",,Tec de Monterrey,,31,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,25,3,12.774,4,0.408319,0.445253,0.008299,0.916667,275
+1029,"Rodríguez, Ramón M.",,Tec de Monterrey,,63,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,21,2,9.848,5,0.4005,0.435967,0.000057,0.738095,155
+1040,"Campuzano, Gabriel",,Tec de Monterrey,,21,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,58,2,34.072,5,0.443318,0.499203,0.001126,0.589232,974
+1061,"Alvarez, Mario M.",,Tec de Monterrey,,57,EIC,EIC004 - Ing. Celular,Líder,1,1,1,1,1,1,1,1,131,1,68.907,4,0.514439,0.602044,0.004584,0.529184,4506
+1064,"Cortés, Jorge A.",,Tec de Monterrey,,6,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,45,3,20.959,4,0.471107,0.511435,0.001741,0.780808,773
+1133,"Mendoza, Alberto",,Tec de Monterrey,,37,EIC,EIC003 - Energía,Líder,1,1,1,1,1,1,1,1,55,1,30.942,5,0.4223,0.481601,0.00052,0.764983,1136
+1184,"Güemes, David",,Tec de Monterrey,,3,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,9,2,4.185,5,0.353157,0.379556,0,1,36
+1222,"Martínez, Oscar",,Tec de Monterrey,,23,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,72,2,36.66,4,0.497415,0.54955,0.01228,0.453443,1159
+1301,"Probst, Oliver M.",,Tec de Monterrey,,38,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,56,3,27.827,4,0.471569,0.519751,0.000613,0.688312,1060
+1319,"Rodríguez, José",,Tec de Monterrey,,0,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+1358,"Vargas, César",,Tec de Monterrey,,12,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,19,2,8.911,5,0.4005,0.433368,0.000134,0.666667,114
+1491,"Gutiérrez, Janet A.",,Tec de Monterrey,,58,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,107,1,61.666,4,0.491318,0.569993,0.004656,0.497972,2824
+1598,"Gómez, José I.",,Tec de Monterrey,,2,EIC,EIC013 - Sensores y Dispositivos,Colaborador,1,1,1,1,1,1,1,1,24,2,11.258,4,0.424537,0.45894,0.000618,0.619565,171
+1662,"Angel Bello, Francisco R.",,Tec de Monterrey,,18,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,59,2,32.001,5,0.429848,0.489848,0.000449,0.749269,1282
+1752,"Garza, Luis E.",,Tec de Monterrey,,25,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,77,2,42.916,5,0.487335,0.545981,0.003418,0.576897,1688
+1820,"Hernández, Raúl I.",,Tec de Monterrey,,31,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,44,2,26.028,5,0.440073,0.486902,0.000347,0.687104,650
+1998,"Díaz, José A.",,Tec de Monterrey,,13,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,13,2,5.862,5,0.43139,0.458489,0.000305,0.5,39
+2017,"Rodríguez, Roberto D.",,Tec de Monterrey,,3,EIC,EIC017 - Telecom,Colaborador,1,1,1,1,1,1,1,1,6,4,3.012,5,0.324561,0.341684,0.000617,0.266667,4
+2099,"Hernández, Carmen",,Tec de Monterrey,,34,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,74,1,40.439,5,0.455492,0.522245,0.001771,0.503887,1361
+2181,"Dieck, Graciano",,Tec de Monterrey,,9,EIC,EIC013 - Sensores y Dispositivos,Colaborador,1,1,1,1,1,1,1,1,32,3,15.363,5,0.428699,0.468884,0.000005,0.9375,465
+2193,"Videa, Marcelo F.",,Tec de Monterrey,,25,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,132,3,68.287,4,0.50792,0.598579,0.000809,0.738607,6386
+2256,"Serna, Sergio R.",,Tec de Monterrey,,141,EIC,EIC010 - Nutriomics,Líder,1,1,1,1,1,1,1,1,142,1,81.26,4,0.511158,0.607415,0.008037,0.474278,4748
+2333,"Martínez, Luz M.",,Tec de Monterrey,,12,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,58,1,28.036,4,0.458095,0.511608,0.000087,0.797943,1319
+2339,"Rodriguez, Marisela",,Tec de Monterrey,,12,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,4,2,1.81,6,0.30347,0.32578,0.000144,0.5,3
+2499,"Siller, Héctor R.",,Tec de Monterrey,,35,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,143,2,74.578,4,0.556713,0.633576,0.011243,0.52743,5355
+2523,"Llamas, Armando R.",,Tec de Monterrey,,10,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,35,3,18.357,4,0.423415,0.46587,0.000043,0.880672,524
+2538,"Guedea, Federico",,Tec de Monterrey,,7,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,56,2,29.759,5,0.440073,0.495218,0.000504,0.714935,1101
+2607,"Martínez, Sergio O.",,Tec de Monterrey,,26,EIC,EIC013 - Sensores y Dispositivos,Líder,1,1,1,1,1,1,1,1,173,3,100.855,4,0.582324,0.66736,0.008914,0.572926,8524
+2613,"Hendrichs, Nicolás J.",,Tec de Monterrey,,7,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,86,3,43.206,4,0.479561,0.546258,0.001229,0.698222,2552
+2660,"Villalpando, Rafaela",,Tec de Monterrey,,4,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+2847,"López, Servando",,Tec de Monterrey,,25,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,18,2,9.026,4,0.424162,0.454608,0.001159,0.660131,101
+2885,"Kalashnikov, Viacheslav",,Tec de Monterrey,,56,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,70,2,38.181,5,0.431004,0.49851,0.000969,0.633954,1531
+3017,"Manzano, Mario G.",,Tec de Monterrey,,7,EIC,EIC003 - Energía,Colaborador,1,1,1,1,1,1,1,1,3,2,1.243,5,0.338971,0.355717,0.000004,0.666667,2
+3055,"Smith, Neale R.",,Tec de Monterrey,,34,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,51,2,26.054,5,0.418261,0.473562,0.000353,0.73098,932
+3340,"Rivera, Carlos I.",,Tec de Monterrey,,14,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,54,3,26.305,4,0.464286,0.512474,0.009775,0.775681,1110
+3529,"Valiente, Juan I.",,Tec de Monterrey,,6,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,1,1,0.444,6,0.293293,0.306965,0,0,0
+3582,"García, Alejandro J.",,Tec de Monterrey,,15,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,67,3,32.843,4,0.466085,0.523042,0.001295,0.891,1970
+3780,"Jacobo, Daniel A.",,Tec de Monterrey,,31,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,102,1,54.042,4,0.48783,0.564276,0.003548,0.517958,2668
+15187,"Mahlknecht, Jurgen",,Tec de Monterrey,,19,EIC,EIC002 - Agua,Líder,1,1,1,1,1,1,1,1,52,1,28.992,5,0.41609,0.473978,0.000428,0.769231,1020
+16928,"Elizalde, Hugo R.",,Tec de Monterrey,,12,EIC,EIC003 - Energía,Colaborador,1,1,1,1,1,1,1,1,12,3,6.559,4,0.397192,0.425676,0.000034,0.833333,55
+17094,"López, Miguel Á.",,Tec de Monterrey,,7,EIC,EIC002 - Agua,Adscrito,1,1,1,1,1,1,1,1,4,1,2.035,5,0.347042,0.365523,0.00003,0.666667,4
+17383,"Aguilar, Oscar A.",,Tec de Monterrey,,21,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,119,1,63.722,4,0.498446,0.583333,0.001764,0.621279,4362
+18647,"Cárdenas, César R.",,Tec de Monterrey,,14,EIC,EIC017 - Telecom,Colaborador,1,1,1,1,1,1,1,1,4,2,2.083,5,0.282775,0.299238,0.000066,0.5,3
+19289,"Ponce, Pedro",,Tec de Monterrey,,34,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,86,2,46.841,5,0.489817,0.554123,0.004587,0.572093,2091
+19702,"Antonyán, Natella",,Tec de Monterrey,,13,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+20027,"Castro, Jaime",,Tec de Monterrey,,9,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+20203,"Oseguera, Joaquín E.",,Tec de Monterrey,,50,EIC,EIC009 - Nanomateriales,Líder,1,1,1,1,1,1,1,1,91,3,49.741,4,0.482932,0.551975,0.000276,0.863736,3537
+20500,"Monroy, Raúl",,Tec de Monterrey,,22,EIC,EIC016 - Artificial Intel.,Líder,1,1,1,1,1,1,1,1,63,2,33.868,5,0.426797,0.489674,0.000589,0.726575,1419
+20753,"Noguez, Juana J.",,Tec de Monterrey,,9,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,1,2,0.414,6,0.251832,0.259737,0,0,0
+20870,"Figueroa, Ulises",,Tec de Monterrey,,34,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,99,3,58.54,4,0.490816,0.56289,0.000384,0.838178,4066
+21093,"Kanaoun, Serguei",,Tec de Monterrey,,0,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+21111,"Salas, Olimpia",,Tec de Monterrey,,28,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,37,3,19.022,4,0.430233,0.4728,0.000039,0.926426,617
+21191,"Delgado, Francisco J.",,Tec de Monterrey,,16,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,29,3,14.084,4,0.427556,0.46535,0.002123,0.70197,285
+21378,"Trejo, Luis A.",,Tec de Monterrey,,5,EIC,EIC016 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,29,2,14.823,5,0.381443,0.421587,0.000977,0.746305,303
+22720,"Hernández, Neil",,Tec de Monterrey,,4,EIC,EIC016 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,40,2,20.683,5,0.37874,0.428067,0.001899,0.676923,528
+23028,"Huertas, José I.",,Tec de Monterrey,,28,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,47,1,28.604,5,0.420455,0.474498,0.000214,0.883441,955
+23347,"Gonzalez, Luis F.",,Tec de Monterrey,,1,EIC,EIC017 - Telecom,Colaborador,1,1,1,1,1,1,1,1,10,2,4.81,5,0.350839,0.379938,0.000006,0.911111,41
+23719,"Molina, José M.",,Tec de Monterrey,,3,EIC,EIC006 - Innovación Prod.,Colaborador,1,1,1,1,1,1,1,1,4,2,2.215,6,0.32217,0.342412,0.000039,0.5,3
+23818,"Mora, Jaime",,Tec de Monterrey,,6,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,43,2,21.476,5,0.415371,0.465073,0.001977,0.638981,577
+23887,"Otero, José A.",,Tec de Monterrey,,37,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,90,3,47.26,4,0.493333,0.558732,0.00208,0.619975,2483
+24001,"Mendoza, Christian C.",,Tec de Monterrey,,1,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,9,2,4.297,5,0.354982,0.378967,0.001919,0.222222,8
+24366,"Muñoz, Lourdes",,Tec de Monterrey,,6,EIC,EIC016 - Artificial Intel.,Colaborador,1,1,1,1,1,1,1,1,34,2,17.459,5,0.374903,0.419508,0.000028,0.869875,488
+24367,"Alencastre, Moisés",,Tec de Monterrey,,6,EIC,EIC016 - Artificial Intel.,Colaborador,1,1,1,1,1,1,1,1,34,2,17.459,5,0.374903,0.419508,0.000028,0.869875,488
+30941,"Téllez, Carlos",,Tec de Monterrey,,0,EIC,EIC006 - Innovación Prod.,Colaborador,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+31918,"Aragón, Alejandro",,Tec de Monterrey,,11,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,51,2,30.322,5,0.423043,0.477374,0.000803,0.636863,812
+32953,"Antelis, Javier M.",,Tec de Monterrey,,12,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,12,2,6.138,5,0.381141,0.409182,0.000576,0.333333,22
+33194,"Martínez, Cesar",,Tec de Monterrey,,8,EIC,EIC005 - Ing. Industrial,Colaborador,1,1,1,1,1,1,1,1,15,2,7.199,5,0.386035,0.417602,0.000607,0.638095,67
+35843,"Amador, Juan C.",,Tec de Monterrey,,4,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,5,1,2.277,5,0.377255,0.403188,0,1,10
+36590,"Martínez, Alberto F.",,Tec de Monterrey,,4,EIC,EIC017 - Telecom,PostDoc,1,1,1,1,1,1,1,1,40,2,19.69,5,0.379338,0.429626,0.000199,0.783333,611
+36686,"Sarmiento, Ana M.",,Tec de Monterrey,,7,EIC,EIC005 - Ing. Industrial,Colaborador,1,1,1,1,1,1,1,1,33,2,18.403,5,0.407627,0.450693,0.000125,0.761364,402
+37436,"López, Edgar R.",,Tec de Monterrey,,8,EIC,EIC008 - Nanotecnología,Colaborador,1,1,1,1,1,1,1,1,94,3,48.806,4,0.475767,0.549203,0.001211,0.714482,3123
+40875,"Micheloud, Osvaldo M.",,Tec de Monterrey,,11,EIC,EIC003 - Energía,Colaborador,1,1,1,1,1,1,1,1,67,3,34.535,4,0.462945,0.521137,0.000368,0.762551,1686
+40994,"Rodríguez, Ernesto",,Tec de Monterrey,,11,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,88,2,46.098,4,0.482932,0.550243,0.004667,0.517503,1981
+41447,"Diaz, Rocio I.",,Tec de Monterrey,,25,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,55,1,29.767,5,0.444137,0.49955,0.001192,0.56633,841
+61945,"González, Luz M.",,Tec de Monterrey,,0,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+63080,"Sánchez, Gildardo",,Tec de Monterrey,,11,EIC,EIC006 - Innovación Prod.,Colaborador,1,1,1,1,1,1,1,1,21,2,10.337,5,0.39917,0.434234,0.0018,0.557143,117
+63473,"Venegas, Salvador E.",,Tec de Monterrey,,20,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,63,2,33.06,5,0.449953,0.508212,0.001342,0.58935,1151
+64646,"González, Miguel",,Tec de Monterrey,,5,EIC,EIC016 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,36,2,19.605,5,0.375781,0.422523,0.000184,0.747619,471
+69662,"Cárdenas, Diego E.",,Tec de Monterrey,,8,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,12,3,6.559,4,0.397192,0.425676,0.000034,0.833333,55
+71113,"Huegel, Joel C.",,Tec de Monterrey,,10,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,37,2,18.445,5,0.437273,0.480665,0.000725,0.762763,508
+74732,"Benavides, Jorge A.",,Tec de Monterrey,,37,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,106,1,56.322,4,0.48635,0.566008,0.000975,0.675831,3761
+75736,"Martín del Campo, Sandra T.",,Tec de Monterrey,,13,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,31,1,19.114,5,0.413941,0.45648,0.000131,0.815054,379
+75791,"Aguilar, José M.",,Tec de Monterrey,,13,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,58,1,30.074,5,0.434116,0.494595,0.000204,0.753176,1245
+75840,"Cardador, Maria A.",,Tec de Monterrey,,15,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,21,1,10.385,5,0.397521,0.433091,0.003045,0.657143,138
+76568,"Pérez, Esther",,Tec de Monterrey,,36,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,125,1,68.515,4,0.5,0.588531,0.004427,0.530581,4112
+76723,"Coello, Carlos A.",,"Other ",,87,EIC,EIC014 - Artificial Intel.,Star,1,1,1,1,1,1,1,1,85,2,50.508,5,0.471569,0.54061,0.002232,0.598039,2135
+77495,"Cholula, Jorge L.",,Tec de Monterrey,,3,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,11,4,5.126,4,0.395559,0.42377,0.001641,0.6,33
+77538,"Tercero, Víctor G.",,Tec de Monterrey,,7,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,51,2,27.453,5,0.426797,0.481705,0.000483,0.683137,871
+80463,"Pacheco, Adriana",,Tec de Monterrey,,11,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,16,1,7.458,5,0.38853,0.422592,0.000042,0.741667,89
+81927,"García, Silverio",,Tec de Monterrey,,45,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,64,1,33.976,5,0.458095,0.516355,0.001429,0.541667,1092
+82391,"Montesinos, Alejandro",,Tec de Monterrey,,19,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,131,3,71.539,4,0.522258,0.605336,0.002933,0.665297,5665
+82980,"Welti, Jorge S.",,Tec de Monterrey,,98,EIC,EIC015 - Nutrición molecular,Líder,1,1,1,1,1,1,1,1,68,1,38.219,4,0.456357,0.518018,0.001341,0.567164,1292
+83021,"Vázquez, Olga P.",,Tec de Monterrey,,5,EIC,EIC001 - Bioprocesos,PostDoc,1,1,1,1,1,1,1,1,95,1,50.335,4,0.481964,0.555267,0.000243,0.766629,3423
+83098,"Sánchez, José A.",,Tec de Monterrey,,0,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+83956,"Parra, Roberto",,Tec de Monterrey,,59,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,117,1,64.741,4,0.490816,0.57675,0.001335,0.614943,4173
+86925,"Juárez, María M.",,Tec de Monterrey,,1,EIC,EIC009 - Nanomateriales,Colaborador,1,1,1,1,1,1,1,1,5,4,3.457,6,0.283776,0.298475,0,1,10
+87096,"Romero, David C.",,Tec de Monterrey,,46,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,48,2,25.431,5,0.451643,0.499376,0.004539,0.72695,820
+91447,"Camacho, Sergio",,Tec de Monterrey,,11,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,142,3,73.574,4,0.548461,0.628205,0.006052,0.590251,5909
+95110,"Mújica, Hugo",,Tec de Monterrey,,23,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,33,1,20.913,5,0.41006,0.454227,0.000163,0.820076,433
+95111,"Valdez, Aurora",,Tec de Monterrey,,25,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,42,1,25.575,5,0.423415,0.473112,0.000348,0.699187,602
+111495,"Flores, Eduardo A.",,Tec de Monterrey,,7,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+112855,"Ortiz, José C.",,Tec de Monterrey,,6,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,39,2,21.208,5,0.369148,0.418884,0.000045,0.854251,633
+112969,"Guajardo, Daniel",,Tec de Monterrey,,10,EIC,EIC010 - Nutriomics,Colaborador,1,1,1,1,1,1,1,1,38,1,20.754,5,0.418625,0.466632,0.001494,0.71266,501
+113821,"Vega, Yadira I.",,Tec de Monterrey,,12,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,102,3,59.659,4,0.495876,0.568434,0.001549,0.833042,4291
+113994,"Santos, Liliana",,Tec de Monterrey,,6,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,31,1,16.618,5,0.398509,0.443313,0.000582,0.806452,375
+114020,"Trujillo, Grissel",,Tec de Monterrey,,6,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,59,1,28.241,4,0.457224,0.511954,0.000273,0.742256,1270
+114042,"Senés, Carolina",,Tec de Monterrey,,5,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,13,1,7.607,5,0.373447,0.40395,0.000017,0.807692,63
+114128,"Mancilla, Yasmany",,Tec de Monterrey,,8,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,6,1,3.586,5,0.344803,0.369127,0,1,15
+114259,"Olvera, Daniel",,Tec de Monterrey,,15,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,123,2,62.236,4,0.541057,0.61088,0.008436,0.520992,3909
+114319,"Vázquez, Elisa V.",,Tec de Monterrey,,11,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,85,2,42.835,4,0.50052,0.560118,0.003174,0.543978,1942
+114445,"Rodríguez, Dariana G.",,Tec de Monterrey,,5,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,28,1,13.996,5,0.414655,0.455891,0.004277,0.666667,252
+114449,"Martínez, José I.",,Tec de Monterrey,,3,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,10,3,4.449,5,0.398509,0.426611,0.000014,0.8,36
+114472,"Mayolo, Karla P.",,Tec de Monterrey,,18,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,105,1,56.874,4,0.483417,0.563236,0.000578,0.672527,3672
+114487,"Rodríguez, José M.",,Tec de Monterrey,,3,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,50,3,24.364,4,0.453346,0.501386,0.000203,0.791837,970
+114660,"Ruiz, Federico A.",,Tec de Monterrey,,8,EIC,EIC001 - Bioprocesos,PostDoc,1,1,1,1,1,1,1,1,81,1,42.246,4,0.473425,0.539501,0.000631,0.715741,2319
+114824,"García, Erika",,Tec de Monterrey,,4,EIC,EIC007 - Manufactura,PostDoc,1,1,1,1,1,1,1,1,57,1,27.056,4,0.473892,0.522349,0.000446,0.711153,1135
+115114,"Portillo, Roberto",,Tec de Monterrey,,5,EIC,EIC004 - Ing. Celular,PostDoc,1,1,1,1,1,1,1,1,60,1,29.403,4,0.461612,0.515766,0.003323,0.658192,1165
+115119,"Escobedo, Zamantha J.",,Tec de Monterrey,,13,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,41,1,25.052,5,0.415371,0.466182,0.000305,0.707317,580
+115132,"Hervert, Laura",,Tec de Monterrey,,3,EIC,EIC005 - Ing. Industrial,PostDoc,1,1,1,1,1,1,1,1,23,2,11.328,5,0.354982,0.3921,0.000012,0.87747,222
+119259,"López, Dorilián",,Tec de Monterrey,,13,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,42,2,24.104,5,0.438069,0.483784,0.00029,0.689895,594
+120604,"Peimbert, Rodrigo E.",,Tec de Monterrey,,2,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,7,2,3.584,5,0.336364,0.355752,0.004871,0.333333,7
+121157,"Chuck, Cristina E.",,Tec de Monterrey,,17,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,47,1,26.359,5,0.426041,0.479799,0.000448,0.654949,708
+121160,"González, José G.",,Tec de Monterrey,,18,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,150,1,81.029,4,0.520563,0.619023,0.00139,0.662729,7406
+121162,"Pérez, Víctor H.",,Tec de Monterrey,,11,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,161,3,90.505,4,0.567887,0.651767,0.009116,0.588742,7583
+121487,"Salazar, Arnoldo",,Tec de Monterrey,,5,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,58,2,29.773,5,0.452068,0.50648,0.001025,0.578947,957
+121629,"Roberts, Ricardo E.",,Tec de Monterrey,,0,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+121669,"Heredia, Erick",,Tec de Monterrey,,7,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,51,1,28.537,5,0.423043,0.480146,0.00014,0.818039,1043
+121729,"Minchala, Luis I.",,Tec de Monterrey,,14,EIC,EIC003 - Energía,PostDoc,1,1,1,1,1,1,1,1,80,2,44.452,5,0.480519,0.543555,0.002452,0.590823,1867
+130030,"Peña, Raúl",,Tec de Monterrey,,1,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,4,2,1.837,6,0.333796,0.351282,0,1,6
+130768,"Gijón, Miguel A.",,Tec de Monterrey,,11,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,39,3,18.099,4,0.445783,0.487699,0.000183,0.703104,521
+130807,"Rocha, María d.",,Tec de Monterrey,,8,EIC,EIC004 - Ing. Celular,Colaborador,1,1,1,1,1,1,1,1,84,1,41.396,4,0.480519,0.546431,0.001196,0.65634,2288
+130861,"Aguayo, Enrique J.",,Tec de Monterrey,,7,EIC,EIC014 - Artificial Intel.,Colaborador,1,1,1,1,1,1,1,1,29,2,14.006,5,0.39491,0.4351,0.000094,0.761084,309
+130866,"Gómez, Alfonso",,Tec de Monterrey,,4,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,25,3,12.2,4,0.417535,0.454782,0.000224,0.683333,205
+130966,"García, Alejandro",,Tec de Monterrey,,8,EIC,EIC012 - Robótica,Colaborador,1,1,1,1,1,1,1,1,19,1,9.098,5,0.424912,0.457277,0.00058,0.80117,137
+132659,"Muñoz, Rodrigo B.",,Tec de Monterrey,,10,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,3,1,1.357,5,0.325,0.348787,0.000002,0.666667,2
+133352,"Sastré, Jorge",,Tec de Monterrey,,24,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,16,3,7.384,5,0.392013,0.423493,0.000004,0.875,105
+134051,"Olvera, Víctor",,Tec de Monterrey,,0,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+135186,"Ortega, Wendy d.",,Tec de Monterrey,,9,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,4,2,1.926,4,0.363019,0.383576,0.00006,0.5,3
+136456,"Téllez, Carmen",,Tec de Monterrey,,2,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,5,2,2.227,4,0.352898,0.373181,0.000173,0.5,5
+136459,"Alonzo, Maritza",,Tec de Monterrey,,2,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,8,1,3.746,5,0.362199,0.387179,0.000973,0.5,14
+137509,"Camiña, José B.",,Tec de Monterrey,,4,EIC,EIC016 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,29,2,14.823,5,0.381443,0.421587,0.000977,0.746305,303
+137894,"Markov, Anatoly",,Tec de Monterrey,,6,EIC,EIC005 - Ing. Industrial,PostDoc,1,1,1,1,1,1,1,1,17,3,8.608,4,0.409362,0.441268,0.00001,0.911765,124
+139396,"Alvarez, Alejandro J.",,Tec de Monterrey,,6,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,46,3,22.42,4,0.450375,0.497055,0.000065,0.870531,901
+140010,"Cobreros, Carlos",,Tec de Monterrey,,0,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+140198,"Vergara, Berenice",,Tec de Monterrey,,3,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,22,3,10.812,4,0.40625,0.443001,0.00004,0.87013,201
+140723,"Rodríguez, Aida",,Tec de Monterrey,,2,EIC,EIC007 - Manufactura,Colaborador,1,1,1,1,1,1,1,1,2,0,0.941,5,0.290459,0.303777,0.004158,0,0
+155751,"Acosta, Beatriz A.",,Tec de Monterrey,,3,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,27,1,13.187,5,0.39491,0.436556,0.000297,0.74359,261
+160384,"Antunes, Marilena",,Tec de Monterrey,,8,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,33,1,17.393,5,0.402174,0.447644,0.000123,0.840909,444
+168809,"Esquivel, Diego A.",,Tec de Monterrey,,4,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,4,1,2.291,5,0.356825,0.385724,0.000001,0.833333,5
+169007,"Guevara, Andrea",,Tec de Monterrey,,7,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,69,3,36.361,4,0.469268,0.526681,0.000103,0.903666,2120
+169092,"Fuentes, Rita Q.",,Tec de Monterrey,,8,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,57,2,28.641,5,0.420455,0.47876,0.000345,0.721805,1152
+171934,"Carrera, Rafael",,"Other ",,4,EIC,EIC009 - Nanomateriales,PostDoc,1,1,1,1,1,1,1,1,90,3,48.33,4,0.483903,0.551629,0.001883,0.837953,3356
+173121,"Sharma, Ashutosh",,Tec de Monterrey,,0,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+175948,"Sánchez, Diana",,Tec de Monterrey,,13,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,22,1,10.209,5,0.391375,0.428933,0.000162,0.640693,148
+177259,"Aguirre, Héctor A.",,Tec de Monterrey,,0,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+182812,"Barrios, Héctor A.",,Tec de Monterrey,,9,EIC,EIC002 - Agua,Adscrito,1,1,1,1,1,1,1,1,25,2,11.256,5,0.41006,0.447401,0.002175,0.59,177
+200828,"Montes, Silvia L.",,Tec de Monterrey,,3,EIC,EIC004 - Ing. Celular,Adscrito,1,1,1,1,1,1,1,1,28,3,13.453,4,0.426797,0.46431,0.000066,0.820106,310
+200969,"Ornelas, Nancy E.",,Tec de Monterrey,,23,EIC,EIC002 - Agua,Adscrito,1,1,1,1,1,1,1,1,51,1,28.227,5,0.415013,0.473458,0.000165,0.825098,1052
+205248,"Melo, Dulce V.",,Tec de Monterrey,,5,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,88,3,48.297,4,0.47296,0.542966,0.000244,0.865726,3314
+205603,"Garcia, Beatriz",,Tec de Monterrey,,0,EIC,EIC010 - Nutriomics,Colaborador,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+206314,"Ibarra, David I.",,Tec de Monterrey,,10,EIC,EIC018 - Automotriz,Adscrito,1,1,1,1,1,1,1,1,1,3,0.51,5,0.337307,0.356029,0,0,0
+208059,"Diabb, José M.",,Tec de Monterrey,,4,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+210280,"Willson, Richard",,"Other ",,139,EIC,EIC001 - Bioprocesos,Star,1,1,1,1,1,1,1,1,172,3,101.434,4,0.576048,0.663721,0.00442,0.611451,8992
+210696,"Rittmann, Bruce E.",,"Other ",,180,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,153,1,89.327,4,0.525109,0.623874,0.00386,0.558996,6500
+212075,"Robledo, Felipe A.",,Tec de Monterrey,,5,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+213100,"Rodríguez, Fernando J.",,Tec de Monterrey,,15,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,112,3,69.841,4,0.50792,0.58316,0.000411,0.845399,5255
+215581,"Rodríguez, Blas M.",,Tec de Monterrey,,49,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,67,2,35.322,4,0.475767,0.530319,0.002063,0.591588,1308
+249274,"Espinosa, Gerardo",,Tec de Monterrey,,0,EIC,EIC005 - Ing. Industrial,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+263247,"Leija, Hector M.",,Tec de Monterrey,,2,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,7,4,3.311,5,0.316864,0.336764,0.000385,0.52381,11
+266160,"Treviño, Juan P.",,Tec de Monterrey,,0,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+271667,"González, Omar I.",,Tec de Monterrey,,1,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+276230,"Montiel, Ariadna",,Tec de Monterrey,,0,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+281531,"de la Rosa, Julián",,Tec de Monterrey,,10,EIC,EIC010 - Nutriomics,Colaborador,1,1,1,1,1,1,1,1,35,1,21.339,5,0.41645,0.461781,0.00023,0.736134,438
+282759,"Sandoval, Jesús A.",,Tec de Monterrey,,2,EIC,EIC007 - Manufactura,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+282929,"Batres, Rafael",,Tec de Monterrey,,43,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,100,3,51.203,4,0.511702,0.577443,0.004334,0.635152,3144
+284000,"De León, Lina M.",,Tec de Monterrey,,0,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+284924,"Oliva, Jacqueline L.",,Tec de Monterrey,,0,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+286981,"Alonso, Luz M.",,Tec de Monterrey,,5,EIC,EIC018 - Automotriz,Adscrito,1,1,1,1,1,1,1,1,4,2,2.06,5,0.339689,0.358039,0,1,6
+287240,"Barrera, Enrique V.",,"Other ",,44,EIC,EIC008 - Nanotecnología,Star,1,1,1,1,1,1,1,1,135,3,78.925,4,0.53743,0.616944,0.001531,0.718629,6500
+287266,"Cano, María d.",,"Other ",,60,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,33,1,18.017,5,0.405907,0.451559,0.000887,0.75,396
+290412,"Novella, David F.",,Tec de Monterrey,,0,EIC,EIC006 - Innovación Prod.,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+290733,"Vázquez, Carlos R.",,Tec de Monterrey,,16,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,66,2,34.695,5,0.432943,0.496431,0.004675,0.675058,1448
+290786,"Medina, Miguel A.",,Tec de Monterrey,,9,EIC,EIC016 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,47,2,22.042,5,0.420455,0.471656,0.000441,0.670675,725
+291578,"Contreras, Flavio F.",,Tec de Monterrey,,36,EIC,EIC002 - Agua,Adscrito,1,1,1,1,1,1,1,1,100,3,53.263,4,0.485859,0.560811,0.005941,0.859798,4256
+292306,"Castañeda, Herman",,Tec de Monterrey,,6,EIC,EIC012 - Robótica,PostDoc,1,1,1,1,1,1,1,1,72,2,40.624,5,0.440476,0.507173,0.000805,0.669014,1710
+293081,"Willson, Richard C.",,Tec de Monterrey,,7,EIC,EIC001 - Bioprocesos,Star,1,1,1,1,1,1,1,1,3,4,2.833,6,0.275961,0.288773,0,1,3
+293668,"Ramírez, José E.",,Tec de Monterrey,,96,EIC,EIC016 - Artificial Intel.,Star,1,1,1,1,1,1,1,1,31,2,16.303,5,0.41041,0.452079,0.000097,0.763441,355
+294046,"Sustaita, Alan O.",,Tec de Monterrey,,7,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,128,3,77.456,4,0.523965,0.604643,0.001157,0.742495,6035
+294186,"Morales, Mariana",,Tec de Monterrey,,9,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,34,1,20.835,5,0.41573,0.459356,0.001321,0.730838,410
+294201,"Rostro, Magdalena d.",,Tec de Monterrey,,5,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,18,1,8.412,5,0.395234,0.43264,0.000072,0.862745,132
+294427,"Torres, Emmanuel",,Tec de Monterrey,,0,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+294635,"Medina, Dora I.",,Tec de Monterrey,,9,EIC,EIC009 - Nanomateriales,Adscrito,1,1,1,1,1,1,1,1,3,1,1.415,6,0.306174,0.324705,0.000055,0.333333,1
+294672,"Madou, Marc",,Tec de Monterrey,,142,EIC,EIC013 - Sensores y Dispositivos,Star,1,1,1,1,1,1,1,1,195,3,124.255,4,0.600499,0.691268,0.009798,0.545017,10309
+294692,"Nikolov, Vassil",,Tec de Monterrey,,52,EIC,EIC005 - Ing. Industrial,Star,1,1,1,1,1,1,1,1,44,2,24.078,5,0.389159,0.439258,0.002121,0.787526,745
+294752,"Iturbe, Jackeline",,Tec de Monterrey,,1,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,45,3,23.265,4,0.429848,0.47869,0.000273,0.847475,839
+294819,"Barrera, Enrique V.",,Tec de Monterrey,,0,EIC,EIC008 - Nanotecnología,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+295303,"Mayo, Jonathan C.",,Tec de Monterrey,,20,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,49,2,25.508,4,0.449533,0.498094,0.00172,0.527211,620
+295536,"López, Armando",,Tec de Monterrey,,3,EIC,EIC016 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,51,2,27.554,5,0.402848,0.458143,0.000136,0.825098,1052
+295613,"Oliva, Diego A.",,Tec de Monterrey,,34,EIC,EIC014 - Artificial Intel.,Adscrito,1,1,1,1,1,1,1,1,74,2,42.635,5,0.47296,0.533853,0.001886,0.660866,1785
+296263,"Hwang, Hyundoo",,Tec de Monterrey,,35,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,133,3,72.521,4,0.517204,0.604297,0.00137,0.75131,6595
+296274,"de Donato, Marcos",,Tec de Monterrey,,41,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,36,1,17.436,5,0.413941,0.460118,0.00022,0.674603,425
+297307,"Castaños, Luis O.",,Tec de Monterrey,,0,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+297900,"Seseña, Jorge A.",,Tec de Monterrey,,1,EIC,EIC017 - Telecom,PostDoc,1,1,1,1,1,1,1,1,10,2,4.722,6,0.338971,0.367117,0.000007,0.822222,37
+298015,"Melo, Lizbeth",,Tec de Monterrey,,4,EIC,EIC009 - Nanomateriales,PostDoc,1,1,1,1,1,1,1,1,38,3,19.638,4,0.430618,0.473839,0.00004,0.926031,651
+298017,"Sánchez, Diana",,Tec de Monterrey,,1,EIC,EIC005 - Ing. Industrial,PostDoc,1,1,1,1,1,1,1,1,2,1,1.067,5,0.308531,0.325676,0,1,1
+298331,"Perales, Imperio A.",,Tec de Monterrey,,5,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,118,3,66.993,4,0.520563,0.595114,0.000679,0.79183,5466
+298591,"De León, Israel",,Tec de Monterrey,,32,EIC,EIC013 - Sensores y Dispositivos,Adscrito,1,1,1,1,1,1,1,1,85,3,45.348,4,0.494347,0.555787,0.002695,0.659104,2353
+299153,"Valdez, Jesús E.",,Tec de Monterrey,,3,EIC,EIC003 - Energía,PostDoc,1,1,1,1,1,1,1,1,35,2,18.247,5,0.386656,0.431809,0.000289,0.70084,417
+299368,"Mamidi, Narsimha",,Tec de Monterrey,,10,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,151,3,75.364,4,0.526258,0.622488,0.003599,0.6317,7154
+300016,"Azpilicueta, Leyre",,Tec de Monterrey,,35,EIC,EIC017 - Telecom,Adscrito,1,1,1,1,1,1,1,1,112,2,62.161,4,0.510074,0.585066,0.016178,0.444498,2763
+300145,"Torres, José A.",,"Other ",,94,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,54,1,31.51,4,0.444137,0.498614,0.004447,0.596087,853
+300147,"Martín, Olga",,"Other ",,164,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,74,1,44.138,5,0.454631,0.520859,0.00176,0.524621,1417
+300259,"Santacruz, Yolanda A.",,Tec de Monterrey,,13,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,14,1,6.412,5,0.382049,0.41289,0.000084,0.78022,71
+300260,"Esquivel, Oscar A.",,Tec de Monterrey,,13,EIC,EIC005 - Ing. Industrial,PostDoc,1,1,1,1,1,1,1,1,65,2,34.071,5,0.433333,0.496085,0.000457,0.704327,1465
+300596,"Flores, Antonio",,Tec de Monterrey,,68,EIC,EIC003 - Energía,Adscrito,1,1,1,1,1,1,1,1,76,2,37.042,4,0.502612,0.555613,0.010313,0.44,1254
+301058,"Carrillo, Danay",,Tec de Monterrey,,3,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,1,0,0.4,6,0.225187,0.231739,0,0,0
+301151,"Padilla, Ana L.",,Tec de Monterrey,,0,EIC,EIC007 - Manufactura,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+301349,"Iqbal, Hafiz M.",,Tec de Monterrey,,61,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,154,1,83.929,4,0.521127,0.622141,0.002915,0.587047,6916
+301513,"Chandra, Rashmi",,Tec de Monterrey,,16,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,74,1,40.894,4,0.464286,0.527547,0.000315,0.757497,2046
+301789,"López, Francisco",,Tec de Monterrey,,6,EIC,EIC005 - Ing. Industrial,PostDoc,1,1,1,1,1,1,1,1,4,2,1.896,5,0.356296,0.375572,0.000042,0.166667,1
+301834,"Benedito, José J.",,"Other ",,71,EIC,EIC010 - Nutriomics,Star,1,1,1,1,1,1,1,1,93,1,46.525,4,0.503138,0.567048,0.014565,0.527115,2255
+301835,"Molina, María C.",,"Other ",,161,EIC,EIC010 - Nutriomics,Star,1,1,1,1,1,1,1,1,100,1,55.556,4,0.501042,0.571206,0.008094,0.490101,2426
+301836,"Francisco, Gerald E.",,"Other ",,44,EIC,EIC012 - Robótica,Star,1,1,1,1,1,1,1,1,7,2,3.782,5,0.361382,0.384407,0.000059,0.619048,13
+301837,"Contreras, José L.",,"Other ",,79,EIC,EIC012 - Robótica,Star,1,1,1,1,1,1,1,1,8,2,4.487,5,0.362745,0.386833,0.000103,0.535714,15
+301838,"Pons, Jose L.",,"Other ",,140,EIC,EIC012 - Robótica,Star,1,1,1,1,1,1,1,1,81,2,38.794,4,0.504193,0.559598,0.00974,0.523765,1697
+301840," García, Tomás",,"Other ",,10,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,38,1,19.385,5,0.417535,0.465835,0.000346,0.694168,488
+301841,"Kurfess, Thomas",,"Other ",,256,EIC,EIC018 - Automotriz,Star,1,1,1,1,1,1,1,1,85,2,47.989,4,0.483417,0.548683,0.00294,0.586275,2093
+301877,"Hosseini, Samira",,Tec de Monterrey,,1,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,8,3,4.125,5,0.356825,0.382952,0.000006,0.75,21
+302003,"Mora, Abrahan R.",,Tec de Monterrey,,1,EIC,EIC002 - Agua,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+302006,"Jiménez, Martha E.",,Tec de Monterrey,,1,EIC,EIC009 - Nanomateriales,PostDoc,1,1,1,1,1,1,1,1,7,1,3.097,5,0.333796,0.361989,0,1,21
+302007,"Sanz, Fredy A.",,Tec de Monterrey,,3,EIC,EIC012 - Robótica,PostDoc,1,1,1,1,1,1,1,1,9,2,4.602,5,0.351608,0.380284,0.00002,0.666667,24
+302048,"Buitimea, Nydia E.",,Tec de Monterrey,,2,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,25,1,13.284,5,0.377848,0.42027,0.000545,0.816667,245
+303053,"López, Laura M.",,Tec de Monterrey,,6,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,34,1,17.382,5,0.41041,0.45544,0.000373,0.707665,397
+303212,"Rosales, Alejandro",,Tec de Monterrey,,8,EIC,EIC014 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,42,2,22.154,5,0.392974,0.442377,0.000173,0.821138,707
+303284,"Villa, Rossana",,Tec de Monterrey,,10,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,24,1,11.562,5,0.374903,0.414207,0.000138,0.851449,235
+303494,"Segura, Emmanuel",,Tec de Monterrey,,7,EIC,EIC007 - Manufactura,PostDoc,1,1,1,1,1,1,1,1,102,3,60.05,4,0.483417,0.560464,0.000145,0.890701,4588
+303519,"del Angel, Karina",,Tec de Monterrey,,0,EIC,EIC008 - Nanotecnología,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+304130,"Rosales, José A.",,Tec de Monterrey,,7,EIC,EIC006 - Innovación Prod.,PostDoc,1,1,1,1,1,1,1,1,39,2,20.442,5,0.390739,0.439085,0.000098,0.801619,594
+304188,"Thomas Roland, Kurfess",,Tec de Monterrey,,0,EIC,EIC018 - Automotriz,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+305820,"Parsaeimehr, Ali",,Tec de Monterrey,,6,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,12,1,6.42,5,0.387591,0.419647,0,0.984848,65
+305974,"Amaya, Ivan M.",,Tec de Monterrey,,16,EIC,EIC014 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,29,2,13.179,5,0.41899,0.457796,0.000491,0.5,203
+306613,"Hernández, Netzahualpille",,Tec de Monterrey,,0,EIC,EIC002 - Agua,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+307281,"Angulo, Paola I.",,Tec de Monterrey,,0,EIC,EIC010 - Nutriomics,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+307516,"Gómez, David",,Tec de Monterrey,,2,EIC,EIC012 - Robótica,Adscrito,1,1,1,1,1,1,1,1,5,2,2.781,6,0.300062,0.323112,0.0005,0.5,5
+308400,"Nigam, Krishna D.",,"Other ",,0,EIC,EIC003 - Energía,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+308418,"Soriano, Luis A.",,Tec de Monterrey,,0,EIC,EIC006 - Innovación Prod.,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+308424,"Garcia, Leonardo A.",,Tec de Monterrey,,0,EIC,EIC007 - Manufactura,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+308425,"Guerra, María I.",,Tec de Monterrey,,2,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,33,1,18.691,5,0.419721,0.462474,0.001253,0.751894,397
+308426,"Estrada, Alejandro",,Tec de Monterrey,,1,EIC,EIC008 - Nanotecnología,PostDoc,1,1,1,1,1,1,1,1,69,3,35.072,4,0.462056,0.521656,0.000106,0.889599,2087
+308428,"Ponce, Nestor",,Tec de Monterrey,,10,EIC,EIC010 - Nutriomics,PostDoc,1,1,1,1,1,1,1,1,44,1,22.765,5,0.41899,0.472003,0.002621,0.614165,581
+308505,"Hernández, Andres",,Tec de Monterrey,,2,EIC,EIC012 - Robótica,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+308632,"de la Cruz, Reynaldo",,Tec de Monterrey,,6,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,15,1,7.736,5,0.397192,0.431081,0.000002,0.952381,100
+308800,"Ontiveros, Aura V.",,Tec de Monterrey,,17,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,70,1,38.429,4,0.45122,0.515246,0.000386,0.717184,1732
+310500,"Aeinehvand, MohammadMahdi",,Tec de Monterrey,,9,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,136,3,76.061,4,0.528571,0.613132,0.001967,0.721678,6625
+310713,"Gutiérrez, Andrés E.",,Tec de Monterrey,,4,EIC,EIC014 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,14,2,6.517,5,0.3683,0.398787,0.000019,0.835165,76
+312560,"Licona, Cuauhtemoc",,Tec de Monterrey,,10,EIC,EIC001 - Bioprocesos,Adscrito,1,1,1,1,1,1,1,1,64,1,33.509,5,0.437273,0.500589,0.000961,0.565476,1140
+313080,"Nellikka, Apurv C.",,Tec de Monterrey,,12,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,32,2,18.552,5,0.429848,0.469577,0.000091,0.790323,392
+314302,"Brunck, Marion E.",,Tec de Monterrey,,9,EIC,EIC015 - Nutrición molecular,Adscrito,1,1,1,1,1,1,1,1,30,1,15.67,5,0.411463,0.454227,0.000061,0.790805,344
+314402,"Galan, Magdian U.",,Tec de Monterrey,,3,EIC,EIC018 - Automotriz,PostDoc,1,1,1,1,1,1,1,1,10,4,5.036,5,0.387279,0.41535,0.001313,0.4,18
+314448,"Zareei, Mahdi",,Tec de Monterrey,,11,EIC,EIC017 - Telecom,PostDoc,1,1,1,1,1,1,1,1,69,2,36.904,5,0.41323,0.480146,0.001191,0.646206,1516
+314459,"Cano, Maria d.",,Tec de Monterrey,,0,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+314512,"Rittmann, Bruce E.",,Tec de Monterrey,,0,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+314580,"Rodríguez, Verónica",,Tec de Monterrey,,1,EIC,EIC015 - Nutrición molecular,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+314979,"Lancho, Bárbara S.",,Tec de Monterrey,,3,EIC,EIC014 - Artificial Intel.,PostDoc,1,1,1,1,1,1,1,1,1,2,0.444,6,0.302326,0.320929,0,0,0
+315017,"Martin, Olga",,Tec de Monterrey,,0,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+315100,"Martins, Rute F.",,Tec de Monterrey,,1,EIC,EIC013 - Sensores y Dispositivos,PostDoc,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+315310,"Nigam, Krishna D.",,Tec de Monterrey,,0,EIC,EIC003 - Energía,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+315514,"Torres, Jose A.",,Tec de Monterrey,,0,EIC,EIC015 - Nutrición molecular,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+316326,"Iakushev, Denis",,Tec de Monterrey,,0,EIC,EIC011 - Óptica,Adscrito,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+316691,"Pérez, Blas L.",,"Other ",,0,EIC,EIC003 - Energía,Star,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+CN228,"Zhou, Shuigeng",,Fudan University,29,288,,Artificial Intel.,,1,0,0,0,0,0,0,0,97,2,50.351,5,0.519438,0.580457,0.019686,0.461125,2147
+CN065,"Jiang, Yugang",,Fudan University,25,97,,Artificial Intel.,,1,0,0,0,0,0,0,0,73,2,44.807,5,0.411111,0.481185,0.00083,0.663242,1743
+CN057,"Huang, Jiping",,Fudan University,24,173,,Artificial Intel.,,1,0,0,0,0,0,0,0,99,3,51.387,4,0.506849,0.573805,0.005791,0.717378,3480
+CN224,"Zhou, Zhihua",,Nanjing University,58,314,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,102,2,60.418,5,0.511158,0.579245,0.009998,0.501068,2581
+CN196,"Yu, Yang",,Nanjing University,19,156,,Artificial Intel.,,1,0,0,0,0,0,0,0,108,3,52.879,4,0.531492,0.594941,0.005442,0.596054,3444
+CN064,"Jiang, Yuan",,Nanjing University,18,63,,Artificial Intel.,,1,0,0,0,0,0,0,0,63,2,33.932,5,0.398839,0.462994,0.000483,0.709165,1385
+CN121,"Qu, Yuzhong",,Nanjing University,17,96,,Artificial Intel.,,1,0,0,0,0,0,0,0,48,2,26.778,5,0.388844,0.442377,0.000104,0.827128,933
+CN043,"Gao, Wen",,Peking University,54,1208,,Artificial Intel.,,1,0,0,0,0,0,0,0,102,2,62.53,5,0.485859,0.562786,0.004683,0.524752,2703
+CN171,"Xie, Guangming",,Peking University,34,248,,Artificial Intel.,,1,0,0,0,0,0,0,0,115,2,68.807,5,0.522258,0.594837,0.008305,0.466514,3058
+CN087,"Lin, Zhou Chen",,Peking University,27,114,,Artificial Intel.,,1,0,0,0,0,0,0,0,67,2,40.606,5,0.44088,0.504227,0.000729,0.682949,1510
+CN198,"Yu, Yong",,Shangai Jiao Tong University,38,236,,Artificial Intel.,,1,0,0,0,0,0,0,0,61,2,37.265,5,0.398839,0.461608,0.000208,0.77541,1419
+CN189,"Yang, Xiaokang",,Shangai Jiao Tong University,32,333,,Artificial Intel.,,1,0,0,0,0,0,0,0,96,2,58.449,5,0.483417,0.556722,0.002726,0.555702,2534
+CN028,"Deng, Xiaotie",,Shangai Jiao Tong University,32,235,,Artificial Intel.,,1,0,0,0,0,0,0,0,69,2,38.529,5,0.405565,0.473909,0.000487,0.693095,1626
+CN122,"REN, Zhongming",,Shangai University,20,351,,Artificial Intel.,,1,0,0,0,0,0,0,0,142,3,93.459,4,0.547213,0.627339,0.003026,0.683149,6839
+CN109,"Luo, Xiangfeng",,Shangai University,15,143,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,90,2,54.109,5,0.48635,0.55447,0.003556,0.563296,2256
+CN136,"Sun, Maosong",,Tshingua University,16,126,,Artificial Intel.,,1,0,0,0,0,0,0,0,76,2,44.573,5,0.450375,0.517914,0.001699,0.630526,1797
+CN139,"Tang, Jie",,Tshingua University,39,421,,Artificial Intel.,,1,0,0,0,0,0,0,0,118,2,67.654,4,0.518319,0.594421,0.011992,0.461538,3186
+CN101,"Liu, Zhiyuan",,Tshingua University,13,53,,Artificial Intel.,,1,0,0,0,0,0,0,0,82,2,46.953,5,0.482447,0.545981,0.003699,0.58928,1957
+CN111,"Luo, Guiming",,Tshingua University,5,73,,Artificial Intel.,,1,0,0,0,0,0,0,0,85,2,47.452,5,0.470646,0.539917,0.001461,0.601401,2147
+CN027,"De Melo, Gerard",,Tshingua University,9,49,,Artificial Intel.,,1,0,0,0,0,0,0,0,39,2,20.067,5,0.381443,0.427997,0.00003,0.920378,682
+CN098,"Liu, Yang",,Tshingua University,10,52,,Artificial Intel.,,1,0,0,0,0,0,0,0,57,2,31.218,5,0.425664,0.483784,0.00035,0.750627,1198
+CN108,"Luan, Huanbo",,Tshingua University,10,48,,Artificial Intel.,,1,0,0,0,0,0,0,0,57,2,34.504,5,0.400166,0.459529,0.000321,0.760025,1213
+CN148,"Wang, Jianmin",,Tshingua University,16,162,,Artificial Intel.,,1,0,0,0,0,0,0,0,100,2,60.118,5,0.505783,0.57422,0.004207,0.539394,2670
+CN033,"Ding, Guiguang",,Tshingua University,12,78,,Artificial Intel.,,1,0,0,0,0,0,0,0,55,2,32.213,5,0.392653,0.45104,0.000348,0.727946,1081
+CN053,"Huang, Minlie",,Tshingua University,14,64,,Artificial Intel.,,1,0,0,0,0,0,0,0,59,2,32.399,5,0.397521,0.458663,0.00045,0.738749,1264
+CN045,"Ge, Junbo",,Fudan University,44,669,,Bioengineering,,0,1,0,0,0,0,0,0,59,1,33.07,5,0.446611,0.503881,0.000631,0.649912,1112
+CN215,"Zhao, Dongyuan",,Fudan University,123,691,,Bioengineering,,0,1,0,0,0,0,0,0,212,3,141.691,3,0.599751,0.702356,0.010537,0.527363,11795
+CN024,"Chi, Nan",,Fudan University,29,426,,Bioengineering,,0,1,0,0,0,0,0,0,93,2,51.873,4,0.508457,0.570513,0.007841,0.471248,2016
+CN193,"Yu, Jianjun",,Fudan University,44,770,,Bioengineering,,0,1,0,0,0,0,0,0,64,2,37.271,4,0.469727,0.523909,0.002195,0.560516,1130
+CN039,"Fan, Jia",,Fudan University,54,414,,Bioengineering,,0,1,0,0,0,0,0,0,56,1,33.481,5,0.450375,0.504747,0.000542,0.662987,1021
+CN191,"Ye, Dingwei",,Fudan University,23,269,,Bioengineering,,0,1,0,0,0,0,0,0,25,1,13.551,5,0.411815,0.450312,0.000017,0.91,273
+CN116,"Peng, Huisheng",,Fudan University,50,189,,Bioengineering,,0,1,0,0,0,0,0,0,165,3,110.544,4,0.555427,0.647782,0.002256,0.667849,9036
+CN226,"Zhou, Jian",,Fudan University,49,313,,Bioengineering,,0,1,0,0,0,0,0,0,62,1,35.821,5,0.461612,0.517741,0.000751,0.658911,1246
+CN071,"Ju, Huangxian",,Nanjing University,79,523,,Bioengineering,,0,1,0,0,0,0,0,0,174,3,113.228,4,0.559302,0.656618,0.002459,0.641353,9653
+CN123,"Ren, Hongqiang",,Nanjing University,18,136,,Bioengineering,,0,1,0,0,0,0,0,0,119,1,75.73,4,0.498446,0.583333,0.0014,0.633243,4446
+CN075,"Li, Aimin",,Nanjing University,45,592,,Bioengineering,,0,1,0,0,0,0,0,0,199,1,123.54,4,0.573986,0.681393,0.008135,0.525456,10352
+CN013,"Chen, Hongyuan",,Nanjing University,79,689,,Bioengineering,,0,1,0,0,0,0,0,0,166,3,112.137,4,0.549087,0.64553,0.001299,0.687988,9422
+CN230,"Zhu, Hailiang",,Nanjing University,41,722,,Bioengineering,,0,1,0,0,0,0,0,0,141,1,78.948,4,0.516094,0.610014,0.003111,0.633333,6251
+CN179,"Xu, Jingjuan",,Nanjing University,60,334,,Bioengineering,,0,1,0,0,0,0,0,0,145,3,94.191,4,0.530905,0.620582,0.001221,0.744636,7774
+CN231,"Zhu, Junjie",,Nanjing University,81,584,,Bioengineering,,0,1,0,0,0,0,0,0,175,3,117.772,4,0.564554,0.65991,0.001929,0.654056,9958
+CN034,"Ding, Lili",,Nanjing University,15,60,,Bioengineering,,0,1,0,0,0,0,0,0,83,1,51.323,4,0.474827,0.541927,0.000463,0.732001,2491
+CN165,"WU, Xiaolei",,Peking University,27,137,,Bioengineering,,0,1,0,0,0,0,0,0,119,1,64.778,4,0.505783,0.588184,0.004357,0.51346,3605
+CN115,"Ni, Jinren",,Peking University,28,161,,Bioengineering,,0,1,0,0,0,0,0,0,149,1,87.183,4,0.525109,0.620409,0.002738,0.61618,6794
+CN010,"Chen, Feng",,Peking University,6,25,,Bioengineering,,0,1,0,0,0,0,0,0,105,1,54.709,4,0.484391,0.563929,0.001976,0.630769,3444
+CN156,"Wei, Shicheng",,Peking University,25,134,,Bioengineering,,0,1,0,0,0,0,0,0,160,3,100.07,4,0.558005,0.64605,0.001888,0.68805,8752
+CN174,"Xiong, Chunyang",,Peking University,19,75,,Bioengineering,,0,1,0,0,0,0,0,0,140,3,84.359,4,0.544118,0.624567,0.001765,0.718397,6990
+CN055,"Huang, Jianyong",,Peking University,70,41,,Bioengineering,,0,1,0,0,0,0,0,0,118,3,64.779,4,0.536232,0.604643,0.001254,0.734174,5068
+CN110,"Luo, Chunxiong",,Peking University,15,54,,Bioengineering,,0,1,0,0,0,0,0,0,153,3,87.065,4,0.544734,0.634269,0.004532,0.636223,7398
+CN181,"Xu, Ping",,Shangai Jiao Tong University,41,262,,Bioengineering,,0,1,0,0,0,0,0,0,174,1,96.262,4,0.544118,0.649515,0.006962,0.500631,7535
+CN223,"Zhong, J. J.",,Shangai Jiao Tong University,44,276,,Bioengineering,,0,1,0,0,0,0,0,0,143,1,78.047,4,0.521692,0.614865,0.003706,0.576578,5854
+CN068,"Jiang, Xinquan",,Shangai Jiao Tong University,30,133,,Bioengineering,,0,1,0,0,0,0,0,0,153,3,91.165,4,0.549087,0.636521,0.003078,0.654283,7608
+CN002,"Bai, Fengwu",,Shangai Jiao Tong University,26,201,,Bioengineering,,0,1,0,0,0,0,0,0,163,1,90.67,4,0.550974,0.644491,0.006025,0.556919,7353
+CN206,"Zhang, Wenjie",,Shangai Jiao Tong University,35,155,,Bioengineering,,0,1,0,0,0,0,0,0,126,3,69.608,4,0.514439,0.597713,0.001259,0.703111,5537
+CN212,"Zhang, Xuehong",,Shangai Jiao Tong University,20,137,,Bioengineering,,0,1,0,0,0,0,0,0,166,1,92.629,4,0.566549,0.654712,0.00874,0.50617,6932
+CN217,"Zhao, Xinqing",,Shangai Jiao Tong University,21,106,,Bioengineering,,0,1,0,0,0,0,0,0,184,1,106.346,4,0.569231,0.668746,0.009954,0.503029,8469
+CN119,"Qian, Guangren",,Shangai University,25,182,,Bioengineering,,0,1,0,0,0,0,0,0,146,1,82.572,4,0.521692,0.616251,0.002825,0.606424,6419
+CN182,"Xu, Yunfeng",,Shangai University,15,81,,Bioengineering,,0,1,0,0,0,0,0,0,137,1,78.838,4,0.512793,0.605163,0.001697,0.63085,5877
+CN090,"Liu, Jianyong",,Shangai University,15,47,,Bioengineering,,0,1,0,0,0,0,0,0,101,1,60.248,4,0.485859,0.562197,0.000691,0.678812,3428
+CN100,"Liu, Yuanyuan",,Shangai University,5,84,,Bioengineering,,0,1,0,0,0,0,0,0,173,3,104.709,4,0.582324,0.667533,0.010875,0.533876,7943
+CN163,"WU, Minghong",,Shangai University,39,441,,Bioengineering,,0,1,0,0,0,0,0,0,211,1,129.935,4,0.610406,0.707034,0.017022,0.515053,11411
+CN077,"Li, Changpin",,Shangai University,36,154,,Bioengineering,,0,1,0,0,0,0,0,0,80,2,40.095,4,0.50052,0.55648,0.00525,0.487025,1539
+CN089,"Liu, Dehua",,Tshingua University,43,258,,Bioengineering,,0,1,0,0,0,0,0,0,161,1,90.776,4,0.538634,0.637041,0.004017,0.55528,7152
+CN173,"Xing, Xinhui",,Tshingua University,31,195,,Bioengineering,,0,1,0,0,0,0,0,0,171,1,95.665,4,0.550343,0.650554,0.006164,0.543034,7893
+CN218,"Zhao, Xuebing",,Tshingua University,24,74,,Bioengineering,,0,1,0,0,0,0,0,0,131,1,75.665,4,0.513889,0.601351,0.001898,0.606929,5168
+CN012,"Chen, GuoQiang",,Tshingua University,52,301,,Bioengineering,,0,1,0,0,0,0,0,0,160,1,90.197,4,0.534444,0.634269,0.004313,0.568868,7236
+CN037,"Du, Wei",,Tshingua University,38,350,,Bioengineering,,0,1,0,0,0,0,0,0,210,3,117.22,4,0.618252,0.709633,0.026801,0.487264,10693
+CN149,"Wang, Kaijun",,Tshingua University,9,86,,Bioengineering,,0,1,0,0,0,0,0,0,97,1,61.513,4,0.48635,0.559771,0.00079,0.672895,3133
+CN160,"Wu, Guangxue",,Tshingua University,11,62,,Bioengineering,,0,1,0,0,0,0,0,0,59,1,37.796,5,0.436083,0.495981,0.001049,0.810053,1386
+CN187,"Yang, Pengyuan",,Fudan University,57,501,,Biotechnology,,0,0,1,0,0,0,0,0,172,1,99.31,4,0.549087,0.650208,0.005972,0.567795,8350
+CN103,"Lu, Baorong",,Fudan University,32,180,,Biotechnology,,0,0,1,0,0,0,0,0,37,1,21.496,5,0.420087,0.466112,0.000637,0.597598,398
+CN126,"Shao, Zhengzhong",,Fudan University,41,212,,Biotechnology,,0,0,1,0,0,0,0,0,190,3,125.152,4,0.569905,0.673077,0.003795,0.594932,10682
+CN085,"Lin, Juan",,Fudan University,21,81,,Biotechnology,,0,0,1,0,0,0,0,0,28,1,15.721,5,0.41899,0.458732,0.000119,0.727513,275
+CN029,"Deng, Chunhui",,Fudan University,53,214,,Biotechnology,,0,0,1,0,0,0,0,0,166,3,97.464,4,0.552239,0.647089,0.005468,0.618474,8470
+CN088,"Liu, Baohong",,Fudan University,43,187,,Biotechnology,,0,0,1,0,0,0,0,0,168,3,104.651,4,0.549087,0.646916,0.003623,0.648061,9091
+CN207,"Zhang, Xiangmin",,Fudan University,48,172,,Biotechnology,,0,0,1,0,0,0,0,0,59,3,29.697,4,0.447442,0.504158,0.000025,0.917592,1570
+CN144,"Wang, Changchun",,Fudan University,51,226,,Biotechnology,,0,0,1,0,0,0,0,0,160,3,105.723,4,0.548461,0.640852,0.001286,0.700943,8916
+CN079,"Li, Genxi",,Nanjing University,38,277,,Biotechnology,,0,0,1,0,0,0,0,0,172,3,106.864,4,0.559302,0.655232,0.002933,0.633415,9315
+CN052,"Hua, Zichun",,Nanjing University,27,270,,Biotechnology,,0,0,1,0,0,0,0,0,132,1,75.797,4,0.538634,0.616078,0.003579,0.583622,5046
+CN201,"Zhang, Chenyu",,Nanjing University,33,130,,Biotechnology,,0,0,1,0,0,0,0,0,120,1,69.424,4,0.533851,0.60499,0.005185,0.563725,4025
+CN138,"Tan, Renxiang",,Nanjing University,45,298,,Biotechnology,,0,0,1,0,0,0,0,0,98,1,54.727,4,0.483417,0.558385,0.00097,0.664212,3157
+CN021,"Chen, Xi",,Nanjing University,36,156,,Biotechnology,,0,0,1,0,0,0,0,0,75,1,43.783,5,0.469268,0.532987,0.001027,0.634955,1762
+CN137,"Sun, Yang",,Nanjing University,21,104,,Biotechnology,,0,0,1,0,0,0,0,0,56,1,32.582,5,0.45122,0.505613,0.002461,0.665584,1025
+CN050,"Hou, Yayi",,Nanjing University,28,171,,Biotechnology,,0,0,1,0,0,0,0,0,85,1,49.368,5,0.484391,0.550485,0.001394,0.659104,2353
+CN086,"Lin, Wenhan",,Peking University,15,93,,Biotechnology,,0,0,1,0,0,0,0,0,78,1,42.939,4,0.472495,0.536556,0.000439,0.710956,2135
+CN172,"Xie, Shuguang",,Peking University,19,108,,Biotechnology,,0,0,1,0,0,0,0,0,83,1,50.227,4,0.463838,0.533784,0.000907,0.655598,2231
+CN031,"Deng, Xingwang",,Peking University,84,279,,Biotechnology,,0,0,1,0,0,0,0,0,58,1,31.378,5,0.466085,0.51833,0.001132,0.60859,1006
+CN083,"Li, Zigang",,Peking University,20,60,,Biotechnology,,0,0,1,0,0,0,0,0,182,3,112.304,4,0.554787,0.660083,0.003262,0.598931,9865
+CN060,"Huang, Yong",,Peking University,62,36,,Biotechnology,,0,0,1,0,0,0,0,0,104,3,53.119,4,0.495876,0.570513,0.002452,0.726662,3892
+CN032,"Deng, Zi Xin",,Shangai Jiao Tong University,35,350,,Biotechnology,,0,0,1,0,0,0,0,0,173,1,101.147,4,0.569231,0.661123,0.009506,0.503697,7494
+CN026,"Cui, Daxiang",,Shangai Jiao Tong University,50,316,,Biotechnology,,0,0,1,0,0,0,0,0,175,3,122.798,4,0.582324,0.668572,0.00531,0.613465,9340
+CN007,"Cao, Chengxi",,Shangai Jiao Tong University,19,122,,Biotechnology,,0,0,1,0,0,0,0,0,161,1,91.186999,4,0.540449,0.637734,0.005031,0.59736,7694
+CN006,"Cai, Yudong",,Shangai University,51,258,,Biotechnology,,0,0,1,0,0,0,0,0,74,1,38.818,5,0.496388,0.550832,0.015879,0.462421,1249
+CN232,"Zhu, Xiaoli",,Shangai University,18,67,,Biotechnology,,0,0,1,0,0,0,0,0,155,3,97.205,4,0.542889,0.634442,0.001311,0.718224,8572
+CN096,"Liu, Xiaoyan",,Shangai University,11,70,,Biotechnology,,0,0,1,0,0,0,0,0,89,1,50.015,4,0.477183,0.547644,0.000774,0.671093,2628
+CN147,"Wang, Jianlong",,Tshingua University,39,279,,Biotechnology,,0,0,1,0,0,0,0,0,130,1,76.588,4,0.509534,0.598233,0.001646,0.631723,5297
+CN157,"Wei, Yen",,Tshingua University,39,196,,Biotechnology,,0,0,1,0,0,0,0,0,200,3,125.3,4,0.579518,0.684858,0.006484,0.564422,11232
+CN058,"Huang, Xia",,Tshingua University,46,270,,Biotechnology,,0,0,1,0,0,0,0,0,180,1,111.84,4,0.558653,0.66043,0.005344,0.585785,9437
+CN114,"Ma, Hong",,Fudan University,71,244,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,52,1,28.801,5,0.461612,0.510707,0.000946,0.60181,798
+CN073,"Kan, Haidong",,Fudan University,40,227,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,62,1,35.575,4,0.444547,0.504158,0.001249,0.665256,1258
+CN063,"Jiang, Hualiang",,Fudan University,39,322,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,134,1,75.825,4,0.53683,0.616424,0.002059,0.643362,5733
+CN128,"Shen, Zhenzhou",,Fudan University,37,206,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,22,1,12.76,5,0.387591,0.426299,0.000011,0.917749,212
+CN194,"Yu, Long",,Fudan University,31,296,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,60,1,35.446,5,0.461612,0.516424,0.00064,0.668362,1183
+CN131,"Shen, Xizhong",,Fudan University,30,125,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,114,1,63.203,4,0.524537,0.595288,0.003906,0.594783,3831
+CN105,"Lu, Huayu",,Nanjing University,39,161,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,15,1,8.333,5,0.369148,0.39851,0.000479,0.695238,73
+CN124,"Ren, Zhongzhou",,Nanjing University,34,393,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,13,4,8.023,5,0.384185,0.412647,0.006827,0.5,39
+CN059,"Huang, Xingtao",,Nanjing University,34,232,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,6,4,5.134,6,0.289934,0.306064,0.00001,0.933333,14
+CN097,"Liu, Xinfeng",,Nanjing University,29,300,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,24,1,13.166,5,0.419355,0.456549,0.000815,0.702899,194
+CN035,"Ding, Weiping",,Nanjing University,26,156,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,133,3,79.53,4,0.54597,0.620582,0.003247,0.707792,6213
+CN205,"Zhang, Longjiang",,Nanjing University,24,188,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,44,1,22.319,4,0.44291,0.489778,0.002107,0.598309,566
+CN151,"Wang, Tijian",,Nanjing University,22,111,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,43,1,23.796,5,0.419721,0.470513,0.000466,0.878184,793
+CN019,"Chen, Pengfei",,Nanjing University,22,97,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,6,4,4.195,5,0.340893,0.365142,0.002439,0.4,6
+CN066,"Jiang, Hong",,Nanjing University,20,218,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,52,1,30.038,5,0.44088,0.494421,0.000883,0.66365,880
+CN004,"Ban, Yong",,Peking University,78,949,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,6,4,5.17,6,0.289934,0.306064,0.00001,0.933333,14
+CN141,"Tu, Pengfei",,Peking University,35,545,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,89,1,49.914,4,0.483417,0.552148,0.000923,0.700204,2742
+CN095,"Liu, Xiaowei",,Peking University,33,151,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,4,4,3.279,6,0.309723,0.323042,0.000265,0.666667,4
+CN176,"Xu, Furong",,Peking University,30,271,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,17,4,10.075,5,0.391694,0.423146,0.008293,0.397059,54
+CN022,"Chen, Xuelei",,Peking University,31,148,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,10,4,7.21,5,0.352898,0.379418,0.004855,0.355556,16
+CN234,"Zong, Qiugang",,Peking University,27,278,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,17,1,7.826,5,0.425664,0.456237,0.007736,0.397059,54
+CN049,"Guo, Huaicheng",,Peking University,23,166,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,63,1,37.493,5,0.467444,0.523354,0.001174,0.697389,1362
+CN200,"Zhan, Siyan",,Peking University,23,187,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,19,1,9.554,5,0.384492,0.420755,0.000136,0.736842,126
+CN061,"Ji, Jianqing",,Peking University,22,98,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,3,1,1.855,6,0.307742,0.322072,0,1,3
+CN099,"Liu, Yu",,Peking University,21,102,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,16,1,7.908,5,0.42193,0.453188,0.000971,0.575,69
+CN048,"Guan, Xinping",,Shangai Jiao Tong University,35,659,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,118,2,73.265,5,0.521127,0.596223,0.008195,0.4598,3174
+CN020,"Chen, Shengdi",,Shangai Jiao Tong University,35,408,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,23,1,12.464,5,0.423789,0.459425,0.001312,0.632411,160
+CN130,"Shen, Shuilong",,Shangai Jiao Tong University,29,199,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,29,1,14.581,4,0.445783,0.481809,0.000642,0.600985,244
+CN104,"Lu, Hongtao",,Shangai Jiao Tong University,29,175,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,90,2,53.071,5,0.477656,0.548406,0.003341,0.578027,2315
+CN082,"Li, Shaoyuan",,Shangai Jiao Tong University,28,445,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,119,2,69.548,5,0.53743,0.606445,0.015388,0.434981,3054
+CN127,"Shao, Zhiming",,Shangai University,55,539,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,57,1,33.016,5,0.454631,0.508732,0.000438,0.694862,1109
+CN209,"Zhang, Xinpeng",,Shangai University,26,173,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,100,2,59.626,5,0.485859,0.5614,0.002992,0.531919,2633
+CN106,"Lu, Wencong",,Shangai University,23,129,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,147,3,79.21,4,0.558005,0.637214,0.002078,0.698351,7494
+CN030,"Deng, Hongmei",,Shangai University,22,181,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,148,3,94.375,4,0.535039,0.624913,0.001061,0.732763,7971
+CN168,"Xiao, Heng",,Shangai University,22,96,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,75,3,40.129,4,0.469268,0.530839,0.000825,0.803243,2229
+CN129,"Shen, Liquan",,Shangai University,19,103,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,64,2,37.956,5,0.447442,0.507173,0.001116,0.612103,1234
+CN214,"Zhang, Zhaoyang",,Shangai University,19,227,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,100,2,55.999,5,0.485368,0.56088,0.004416,0.502626,2488
+CN003,"Bai, Yanqin",,Shangai University,16,70,,Data Sci/Big Data,,0,0,0,1,0,0,0,0,22,2,11.654,5,0.379338,0.413964,0.000664,0.818182,189
+CN167,"Xia, Yongyao",,Fudan University,67,260,,Energy,,0,0,0,0,1,0,0,0,165,3,110.364,3,0.555427,0.647609,0.001705,0.686992,9295
+CN166,"Wu, Yuping*",,Fudan University,62,263,,Energy,,0,0,0,0,1,0,0,0,149,3,99.171,3,0.541667,0.628898,0.001144,0.739978,8159
+CN219,"Zheng, Gengfeng",,Fudan University,40,123,,Energy,,0,0,0,0,1,0,0,0,168,3,109.964,3,0.559302,0.651767,0.002336,0.669233,9388
+CN093,"Liu, TianXi",,Fudan University,45,216,,Energy,,0,0,0,0,1,0,0,0,187,3,125.269,3,0.570581,0.670825,0.004326,0.602496,10478
+CN195,"Yu, Xuebin",,Fudan University,37,192,,Energy,,0,0,0,0,1,0,0,0,149,3,95.737,3,0.53683,0.626126,0.001593,0.701977,7740
+CN047,"Gong, Xingao",,Fudan University,49,283,,Energy,,0,0,0,0,1,0,0,0,155,3,101.755,4,0.565217,0.64605,0.002998,0.673146,8034
+CN009,"Che, Renchao",,Fudan University,34,152,,Energy,,0,0,0,0,1,0,0,0,166,3,113.317,3,0.562573,0.652114,0.00209,0.674042,9231
+CN154,"Wang, Zhongsheng",,Fudan University,39,104,,Energy,,0,0,0,0,1,0,0,0,155,3,103.897,4,0.542277,0.633749,0.002363,0.694344,8287
+CN054,"Huang, Chunhui",,Peking University,69,417,,Energy,,0,0,0,0,1,0,0,0,157,3,106.576,3,0.547213,0.637561,0.001527,0.698432,8553
+CN133,"Shi, Liyi",,Shangai University,47,425,,Energy,,0,0,0,0,1,0,0,0,185,3,125.234,3,0.584447,0.676369,0.003908,0.608637,10359
+CN017,"Chen, Li-Qun",,Shangai University,33,343,,Energy,,0,0,0,0,1,0,0,0,107,3,58.326,4,0.508457,0.580561,0.008743,0.535532,3037
+CN150,"Wang, Linjun",,Shangai University,26,503,,Energy,,0,0,0,0,1,0,0,0,193,3,127.179,4,0.60125,0.690055,0.013474,0.501673,9295
+CN107,"Lu, Xionggang",,Shangai University,23,300,,Energy,,0,0,0,0,1,0,0,0,150,3,99.713,4,0.554147,0.636694,0.002107,0.686264,7669
+CN044,"Gao, Yanfeng",,Shangai University,36,168,,Energy,,0,0,0,0,1,0,0,0,160,3,105.68,3,0.552874,0.642758,0.002546,0.67445,8579
+CN081,"Li, Qian",,Shangai University,14,132,,Energy,,0,0,0,0,1,0,0,0,143,3,92.191,4,0.54597,0.627339,0.001424,0.712302,7232
+CN236,"Yang, Zhenwei",,Tshingua University,43,442,,Energy,,0,0,0,0,1,0,0,0,7,4,5.525,6,0.291162,0.308247,0.000034,0.761905,16
+CN159,"Wu, Wei",,Fudan University,103,4001,,Nanotechnology,,0,0,0,0,0,0,1,0,178,3,101.734,4,0.586585,0.673077,0.006831,0.58865,9273
+CN078,"Li, Fuyou",,Fudan University,82,304,,Nanotechnology,,0,0,0,0,0,0,1,0,160,3,108.176,4,0.548461,0.641026,0.001399,0.695833,8851
+CN040,"Fang, Xiaosheng",,Fudan University,60,164,,Nanotechnology,,0,0,0,0,0,0,1,0,141,3,88.688,4,0.538031,0.621448,0.001097,0.75542,7456
+CN041,"Feng, Wei",,Fudan University,52,777,,Nanotechnology,,0,0,0,0,0,0,1,0,193,3,119.895,4,0.597516,0.688496,0.011776,0.54987,10188
+CN162,"Wu, Limin",,Fudan University,51,278,,Nanotechnology,,0,0,0,0,0,0,1,0,163,3,110.221,4,0.552239,0.644664,0.001561,0.691207,9126
+CN225,"Zhou, Haoshen",,Nanjing University,74,439,,Nanotechnology,,0,0,0,0,0,0,1,0,160,3,106.911,3,0.550343,0.641372,0.001592,0.697248,8869
+CN235,"Zou, Zhigang",,Nanjing University,68,494,,Nanotechnology,,0,0,0,0,0,0,1,0,179,3,118.637,3,0.563892,0.661816,0.002741,0.635114,10118
+CN135,"Shi, Yi",,Nanjing University,53,983,,Nanotechnology,,0,0,0,0,0,0,1,0,185,3,114.678,4,0.591636,0.680353,0.006903,0.587485,9999
+CN038,"Du, Youwei",,Nanjing University,49,739,,Nanotechnology,,0,0,0,0,0,0,1,0,148,3,96.205,4,0.546591,0.63115,0.008228,0.628149,6833
+CN180,"Xu, Ling",,Nanjing University,43,819,,Nanotechnology,,0,0,0,0,0,0,1,0,179,3,109.026,4,0.58303,0.672037,0.004668,0.612579,9759
+CN169,"Xiao, Min",,Nanjing University,47,458,,Nanotechnology,,0,0,0,0,0,0,1,0,148,3,97.811,4,0.560606,0.63912,0.010649,0.652969,7103
+CN102,"Liu, Zhongfan",,Peking University,72,415,,Nanotechnology,,0,0,0,0,0,0,1,0,178,3,118.737,3,0.592365,0.675329,0.005671,0.609852,9607
+CN146,"Wang, Ee Ge",,Peking University,61,365,,Nanotechnology,,0,0,0,0,0,0,1,0,153,3,99.734,4,0.572619,0.648475,0.004312,0.641383,7458
+CN221,"Zheng, Y. F.",,Peking University,50,461,,Nanotechnology,,0,0,0,0,0,0,1,0,158,3,108.054,4,0.560606,0.645877,0.0036,0.685802,8506
+CN117,"Peng, Lian Mao",,Peking University,49,376,,Nanotechnology,,0,0,0,0,0,0,1,0,167,3,110.297,4,0.573302,0.658524,0.006548,0.624414,8655
+CN183,"Yan, Chunhua",,Peking University,91,558,,Nanotechnology,,0,0,0,0,0,0,1,0,72,1,37.984,5,0.494856,0.547956,0.001043,0.666275,1703
+CN018,"Chen, Mingwei",,Shangai Jiao Tong University,68,357,,Nanotechnology,,0,0,0,0,0,0,1,0,172,3,117.088,3,0.58303,0.666667,0.003428,0.642663,9451
+CN016,"Chen, Jiesheng",,Shangai Jiao Tong University,55,278,,Nanotechnology,,0,0,0,0,0,0,1,0,167,3,108.839,3,0.556713,0.649688,0.002887,0.654426,9071
+CN190,"Yang, Zhi",,Shangai Jiao Tong University,52,627,,Nanotechnology,,0,0,0,0,0,0,1,0,195,3,126.952,4,0.598259,0.690402,0.00812,0.557811,10551
+CN204,"Zhang, Di",,Shangai Jiao Tong University,50,743,,Nanotechnology,,0,0,0,0,0,0,1,0,184,3,125.811,3,0.593095,0.679834,0.008357,0.576978,9714
+CN233,"Zhu, Xinyuan",,Shangai Jiao Tong University,43,228,,Nanotechnology,,0,0,0,0,0,0,1,0,180,3,116.047,4,0.565882,0.663895,0.002943,0.628243,10121
+CN120,"Qian, Xuefeng",,Shangai Jiao Tong University,43,154,,Nanotechnology,,0,0,0,0,0,0,1,0,177,3,116.934,3,0.566549,0.661816,0.004691,0.607345,9460
+CN213,"Zhang, Yafei",,Shangai Jiao Tong University,43,265,,Nanotechnology,,0,0,0,0,0,0,1,0,135,3,86.503,4,0.523395,0.608974,0.002168,0.67916,6143
+CN067,"Jiang, Pingkai",,Shangai Jiao Tong University,40,213,,Nanotechnology,,0,0,0,0,0,0,1,0,150,3,100.364,4,0.544118,0.631497,0.00191,0.69396,7755
+CN220,"Zheng, Sixun",,Shangai Jiao Tong University,39,180,,Nanotechnology,,0,0,0,0,0,0,1,0,151,3,87.238,4,0.53683,0.628032,0.002882,0.668256,7568
+CN084,"Liao, ShiJun",,Shangai Jiao Tong University,47,158,,Nanotechnology,,0,0,0,0,0,0,1,0,139,3,76.196,4,0.53683,0.619716,0.004159,0.573141,5497
+CN203,"Zhang, Dengsong",,Shangai University,40,110,,Nanotechnology,,0,0,0,0,0,0,1,0,140,3,90.155,3,0.532669,0.617464,0.000997,0.752004,7317
+CN178,"Xu, Jiaqiang",,Shangai University,39,215,,Nanotechnology,,0,0,0,0,0,0,1,0,164,3,108.985,4,0.561916,0.650554,0.002851,0.656741,8778
+CN153,"Wang, Yong",,Shangai University,38,91,,Nanotechnology,,0,0,0,0,0,0,1,0,165,3,101.484,4,0.555427,0.647782,0.003345,0.641168,8675
+CN155,"Wang,, Haifang",,Shangai University,37,146,,Nanotechnology,,0,0,0,0,0,0,1,0,172,3,100.172,4,0.565217,0.658004,0.003459,0.637087,9369
+CN113,"Luo, Hongjie",,Shangai University,31,174,,Nanotechnology,,0,0,0,0,0,0,1,0,145,3,94.106,3,0.541667,0.626126,0.00146,0.720211,7519
+CN091,"Liu, Johan",,Shangai University,30,355,,Nanotechnology,,0,0,0,0,0,0,1,0,185,3,120.345,4,0.593095,0.680873,0.007183,0.564277,9604
+CN070,"Jiao, Zheng",,Shangai University,28,170,,Nanotechnology,,0,0,0,0,0,0,1,0,167,3,110.524,4,0.569905,0.656791,0.003495,0.626145,8679
+CN208,"Zhang, Xiaojian",,Tshingua University,15,129,,Nanotechnology,,0,0,0,0,0,0,1,0,80,1,49.599,4,0.470646,0.536556,0.000413,0.740506,2340
+CN094,"Liu, Xiang",,Fudan University,15,70,,Water Science,,0,0,0,0,0,0,0,1,83,1,51.783,4,0.471107,0.538981,0.000402,0.73494,2501
+CN222,"Zheng, Zheng",,Fudan University,15,73,,Water Science,,0,0,0,0,0,0,0,1,89,1,55.35,4,0.478607,0.548683,0.000885,0.663432,2598
+CN015,"Chen, Jianmin",,Fudan University,8,62,,Water Science,,0,0,0,0,0,0,0,1,121,1,68,4,0.518319,0.596327,0.006852,0.572176,4154
+CN192,"Ye, Mingxin",,Fudan University,28,111,,Water Science,,0,0,0,0,0,0,0,1,151,3,100.194,4,0.542277,0.63115,0.001811,0.713466,8080
+CN142,"Wan, Chunli",,Fudan University,16,63,,Water Science,,0,0,0,0,0,0,0,1,88,1,53.413,4,0.473425,0.544179,0.000446,0.721003,2760
+CN164,"Wu, Peiyi",,Fudan University,40,247,,Water Science,,0,0,0,0,0,0,0,1,196,3,126.858,3,0.580918,0.682259,0.005616,0.578493,11055
+CN025,"Corke, Harold",,Shangai Jiao Tong University,47,212,,Water Science,,0,0,0,0,0,0,0,1,72,1,41.081,5,0.447442,0.514276,0.001475,0.522692,1336
+CN023,"Cheng, Ping",,Shangai Jiao Tong University,53,310,,Water Science,,0,0,0,0,0,0,0,1,151,3,95.963,4,0.551606,0.636001,0.003407,0.626225,7092
+CN125,"Shangguan, Wenfeng",,Shangai Jiao Tong University,33,207,,Water Science,,0,0,0,0,0,0,0,1,145,3,91.89,4,0.527412,0.618503,0.00194,0.72864,7607
+CN069,"Jiang, Xiumin",,Shangai Jiao Tong University,24,186,,Water Science,,0,0,0,0,0,0,0,1,109,3,62.538,4,0.512247,0.584893,0.002356,0.695209,4092
+CN227,"Zhou, Jizhi",,Shangai University,19,72,,Water Science,,0,0,0,0,0,0,0,1,124,1,71.051,4,0.504722,0.590956,0.00141,0.634802,4841
+CN177,"Xu, Gang",,Shangai University,62,1671,,Water Science,,0,0,0,0,0,0,0,1,190,3,107.64,4,0.590909,0.683645,0.009414,0.542077,9733
+CN210,"Zhang, Xinying",,Shangai University,54,51,,Water Science,,0,0,0,0,0,0,0,1,92,1,50.397,4,0.478607,0.550762,0.000779,0.667941,2796
+CN005,"Bi, Jun",,Nanjing University,26,147,,Water Science,,0,0,0,0,0,0,0,1,72,1,41.777,4,0.465184,0.527027,0.001841,0.657277,1680
+CN186,"Yang, Liuyan",,Nanjing University,22,103,,Water Science,,0,0,0,0,0,0,0,1,103,1,62.47,4,0.492828,0.568434,0.001248,0.62688,3293
+CN143,"Wang, Zunyao",,Nanjing University,20,192,,Water Science,,0,0,0,0,0,0,0,1,110,1,64.394,4,0.496901,0.575364,0.001616,0.617848,3704
+CN199,"Yuan, Zengwei",,Nanjing University,74,69,,Water Science,,0,0,0,0,0,0,0,1,59,1,34.607,4,0.452068,0.507796,0.000509,0.753945,1290
+CN158,"Wei, Zhongbo",,Nanjing University,15,50,,Water Science,,0,0,0,0,0,0,0,1,103,1,60.268,4,0.485368,0.563236,0.002646,0.643823,3382
+CN080,"Li, Manchun",,Nanjing University,14,202,,Water Science,,0,0,0,0,0,0,0,1,32,1,16.858,5,0.444137,0.483333,0.00096,0.629032,312
+CN188,"Yang, Xi",,Nanjing University,14,49,,Water Science,,0,0,0,0,0,0,0,1,58,1,36.692,4,0.439671,0.497921,0.000627,0.784029,1296
+CN051,"Hu, Min",,Peking University,66,694,,Water Science,,0,0,0,0,0,0,0,1,174,1,89.535999,4,0.58162,0.667879,0.016392,0.491662,7400
+CN056,"Huang, Jikun",,Peking University,37,224,,Water Science,,0,0,0,0,0,0,0,1,32,1,15.114,5,0.413941,0.458039,0.00021,0.669355,332
+CN161,"Wu, Hui",,Tshingua University,58,253,,Water Science,,0,0,0,0,0,0,0,1,195,3,127.254,4,0.602757,0.692134,0.00715,0.571293,10806
+CN046,"Gong, Peng",,Tshingua University,54,331,,Water Science,,0,0,0,0,0,0,0,1,30,1,15.981,5,0.435294,0.473735,0.000438,0.574713,250
+CN229,"Zhou, Xiaohong",,Tshingua University,35,463,,Water Science,,0,0,0,0,0,0,0,1,166,3,97.148,4,0.560606,0.651767,0.002606,0.659511,9032
+CN184,"Yang, Dawen",,Tshingua University,30,179,,Water Science,,0,0,0,0,0,0,0,1,57,1,30.837,4,0.469727,0.519924,0.00286,0.632206,1009
+CN014,"Chen, Jiakuan ",,Fudan University,38,215,,Food/Agriculture,,0,0,0,0,0,1,0,0,40,1,21.571,5,0.425664,0.473631,0.001491,0.517949,404
+CN076,"Li, Bo",,Fudan University,37,169,,Food/Agriculture,,0,0,0,0,0,1,0,0,27,1,14.773,5,0.404202,0.445738,0.00022,0.641026,225
+CN202,"Zhang, Da Bing",,Shangai Jiao Tong University,45,279,,Food/Agriculture,,0,0,0,0,0,1,0,0,160,1,90.223,4,0.565217,0.650035,0.013967,0.474371,6034
+CN216,"Zhao, Li Ping",,Shangai Jiao Tong University,31,139,,Food/Agriculture,,0,0,0,0,0,1,0,0,73,1,38.285,5,0.457224,0.522245,0.001282,0.552892,1453
+CN145,"Wang, Dapeng",,Shangai Jiao Tong University,25,185,,Food/Agriculture,,0,0,0,0,0,1,0,0,192,3,117.291,4,0.585871,0.682432,0.006523,0.58017,10638
+CN185,"Yang, Litao",,Shangai Jiao Tong University,23,71,,Food/Agriculture,,0,0,0,0,0,1,0,0,103,1,53.79,4,0.510074,0.579349,0.004988,0.525985,2763
+CN132,"Shi, Haiming",,Shangai Jiao Tong University,19,149,,Food/Agriculture,,0,0,0,0,0,1,0,0,94,1,52.707,5,0.470646,0.54702,0.003211,0.526882,2303
+CN092,"Liu, Ronghou",,Shangai Jiao Tong University,19,119,,Food/Agriculture,,0,0,0,0,0,1,0,0,101,3,53.369,4,0.499481,0.571206,0.001526,0.720396,3638
+CN134,"Shi, Xianming",,Shangai Jiao Tong University,18,97,,Food/Agriculture,,0,0,0,0,0,1,0,0,77,1,41.488,5,0.452068,0.521206,0.002306,0.496582,1453
+CN211,"Zhang, Xinyu",,Shangai University,14,47,,Food/Agriculture,,0,0,0,0,0,1,0,0,52,1,29.83,4,0.440476,0.493763,0.001319,0.779035,1033
+CN197,"Yu, Yingxin",,Shangai University,17,98,,Food/Agriculture,,0,0,0,0,0,1,0,0,46,1,27.415,4,0.438869,0.488046,0.001373,0.849275,879
+CN036,"Ding, Yaping",,Shangai University,22,83,,Food/Agriculture,,0,0,0,0,0,1,0,0,126,3,74.249,4,0.513889,0.59754,0.000691,0.76,5985
+CN140,"Tang, Liang",,Shangai University,8,59,,Food/Agriculture,,0,0,0,0,0,1,0,0,85,1,44.531,4,0.505783,0.563583,0.005231,0.562185,2007
+CN062,"Ji, Junfeng",,Nanjing University,34,159,,Food/Agriculture,,0,0,0,0,0,1,0,0,22,1,11.988,5,0.402174,0.439744,0.001295,0.714286,165
+CN074,"Kong, Lingdong",,Nanjing University,35,112,,Food/Agriculture,,0,0,0,0,0,1,0,0,52,1,28.85,5,0.441284,0.494699,0.000407,0.69457,921
+CN152,"Wang, Xiaorong",,Nanjing University,34,187,,Food/Agriculture,,0,0,0,0,0,1,0,0,56,1,33.508,5,0.433724,0.491823,0.00046,0.793506,1222
+CN175,"Xu, Danke",,Nanjing University,26,101,,Food/Agriculture,,0,0,0,0,0,1,0,0,107,1,54.617,4,0.498963,0.575364,0.001533,0.670781,3804
+CN001,"An, Shuqing",,Nanjing University,25,225,,Food/Agriculture,,0,0,0,0,0,1,0,0,74,1,44.195,5,0.444958,0.513825,0.002651,0.615328,1662
+CN072,"Ju, Weimin",,Nanjing University,24,140,,Food/Agriculture,,0,0,0,0,0,1,0,0,22,1,12.617,5,0.412521,0.448579,0.000333,0.597403,138
+CN042,"Gao, Shixiang",,Nanjing University,21,104,,Food/Agriculture,,0,0,0,0,0,1,0,0,72,1,43.815,4,0.460287,0.523735,0.00129,0.686228,1754
+CN118,"Piao, Shilong",,Peking University,46,178,,Food/Agriculture,,0,0,0,0,0,1,0,0,47,1,26.002,5,0.427936,0.480804,0.000532,0.641073,693
+CN011,"Chen, Guoqian",,Peking University,44,190,,Food/Agriculture,,0,0,0,0,0,1,0,0,72,3,33.752,4,0.487335,0.542273,0.001701,0.644757,1648
+CN112,"Luo, Guoan",,Tshingua University,42,439,,Food/Agriculture,,0,0,0,0,0,1,0,0,122,1,68.693,4,0.510616,0.592689,0.001273,0.661428,4882
+CN008,"Chai, Jijie",,Tshingua University,41,83,,Food/Agriculture,,0,0,0,0,0,1,0,0,36,1,19.874,5,0.445783,0.487145,0.000378,0.728571,459
+CN170,"Xie, Daoxin",,Tshingua University,33,69,,Food/Agriculture,,0,0,0,0,0,1,0,0,54,1,29.798,5,0.465184,0.514865,0.000896,0.624738,894
